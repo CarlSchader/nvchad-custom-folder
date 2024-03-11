@@ -40,6 +40,9 @@ M.mason = {
 
     -- shell stuff
     "shfmt",
+
+    -- rust stuff
+    "rust_analyzer",
   },
 }
 
