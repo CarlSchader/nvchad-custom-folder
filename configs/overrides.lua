@@ -43,6 +43,9 @@ M.mason = {
 
     -- rust stuff
     "rust_analyzer",
+
+    -- python stuff
+    "pyright",
   },
 }
 
