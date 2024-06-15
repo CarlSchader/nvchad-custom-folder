@@ -14,6 +14,7 @@ M.treesitter = {
     "markdown_inline",
     "python",
     "sql",
+    "nix",
   },
   indent = {
     enable = true,
@@ -48,6 +49,12 @@ M.mason = {
 
     -- python stuff
     "pyright",
+
+    -- sql stuff
+    "sqls",
+
+    -- nix stuff
+    "nil_ls",
   },
 }
 
